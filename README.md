@@ -63,9 +63,9 @@ alert("Computers are fun!");
 
 ### Task List:
 
--[x] Task 1
--[x] Task 2
--[] Task 3
+- [x] Task 1
+- [x] Task 2
+- [ ] Task 3
 
 ### Automatic Link:
 https://digitalcareerinstitute.org/
@@ -81,5 +81,26 @@ https://digitalcareerinstitute.org/
 [dci-website]: https://digitalcareerinstitute.org/
 [github]: https://github.com/
 
+### Image syntax
 
+![Golden Eagle](https://images.unsplash.com/photo-1622116626849-8566a95d3aac?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=869&q=80)
 
+### Using emoji
+
+    💯
+💯  💯  💯
+    💯
+    💯
+    💯
+ 
+
+### Table syntax:
+
+| Name   | Email           |
+| ------ | --------------- |
+| Divine | divine@mail.com |
+| David | david@mail.com |
+| Micah | micah@mail.com |
+| Max | max@mail.com |
+
+💯 :dolphin: 💯
